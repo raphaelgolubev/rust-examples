@@ -1,0 +1,10 @@
+[workspace]
+
+[package]
+name = "rust-raphael-examples"
+version = "0.1.0"
+authors = ["Raphael Golubev <raphael.golubev@gmail.com>"]
+description = "A simple Rust project for examples"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+rust-version = "1.82.0"
